@@ -1,0 +1,40 @@
+body {
+    font-family: monospace;
+    background-color: rgb(255, 253, 239);
+    font-size: 15px;
+}
+}
+header{
+text-align: center;
+background-color: #444444;
+margin-bottom:0px
+}
+.link-nav{
+text-decoration: none;
+text-align: center;
+color: gray; 
+
+}
+nav{
+ text-align: center;
+ background-color: black;  
+}
+.social{
+display: flex;
+}
+main h1{
+text-align: center;
+
+}
+header h1{
+text-align: center;
+text-decoration: none;
+font-size: 70px;
+color: rgb(201, 201, 201);
+
+
+
+
+
+
+
